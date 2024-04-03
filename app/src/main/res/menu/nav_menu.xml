@@ -12,7 +12,7 @@
     <item
         android:id="@+id/menu_item3"
         android:icon="@android:drawable/ic_media_ff"
-        android:title="Hasil Balapan"
+        android:title="Balapan"
         />
     <!-- Add more items as needed -->
 </menu>

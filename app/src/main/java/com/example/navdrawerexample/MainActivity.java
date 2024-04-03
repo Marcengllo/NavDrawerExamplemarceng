@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     getSupportFragmentManager().beginTransaction()
                             .replace(R.id.content_frame, new result())
                             .commit();
-                    getSupportActionBar().setTitle("Hasil Balapan");
+                    getSupportActionBar().setTitle("Balapan");
                 }
 
                 drawerLayout.closeDrawers();
